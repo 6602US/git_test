@@ -1,1 +1,4 @@
 Hey Bruh Bruh
+git config --global core.editor "code --wait"
+
+hgkjhk
